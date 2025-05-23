@@ -45,25 +45,17 @@
 
 ---
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+| Схема таблицы Films |
+| ------------------- |
+| <img src="films.png" alt="Films" width="300" /> |
 
-  <figure style="margin: 1em; text-align: center;">
-    <img src="films.png" alt="Films Table" style="max-height: 250px;"/>
-    <figcaption>Таблица Films</figcaption>
-  </figure>
+| Схема таблицы Genres|
+| -------------------- |
+| <img src="genres.png" alt="Genres" width="300" /> |
 
-  <figure style="margin: 1em; text-align: center;">
-    <img src="genres.png" alt="Genres Table" style="max-height: 250px;"/>
-    <figcaption>Таблица Genres</figcaption>
-  </figure>
-
-  <figure style="margin: 1em; text-align: center;">
-    <img src="dir_and_country.png" alt="Directors and Countries" style="max-height: 250px;"/>
-    <figcaption>Таблицы Directors и Countries</figcaption>
-  </figure>
-
-</div>
-
+| Схема таблицы Directors & Countries |
+|-------------------------------------|
+|<img src="dir_and_country.png" alt="Directors & Countries" width="300" /> |             |
 ---
 
 ### Технологии и зависимости
